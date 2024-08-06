@@ -4,7 +4,7 @@ Welcome to the Network Design and Configuration project. This repository documen
 
 ## Table of Contents
 
-1. [Introduction to Networking](intro_networking)
+1. [Introduction to Networking](#intro_networking)
 2. [IP Addressing and Subnetting](#ip-addressing-and-subnetting)
 3. [Network Fundamentals](#network-fundamentals)
 4. [Routing and Switching](#routing-and-switching)
