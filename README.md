@@ -1,134 +1,124 @@
 # Network Design and Configuration for a Small Business
 
-**1.Introduction to Networking**
+Welcome to the Network Design and Configuration project. This repository documents the creation and configuration of a network for a small business, including design, IP addressing, routing, security, and more.
 
-****Objective:**** Create a network topology diagram and document the network design for a small business.
-Tasks:
-Install and configure network simulation software (Cisco Packet Tracer or GNS3).
-Design a network topology for a small business, including routers, switches, and basic network devices.
-Document the OSI and TCP/IP models as they apply to your design.
-Deliverables:
-Network topology diagram.
-Installation and configuration guide of simulation software.
-Documentation of the OSI and TCP/IP models in the context of the network design.
-Example Repository Files:
-/docs/intro_networking/
-Network_Topology_Diagram.png
-OSI_TCPIP_Models_Documentation.md
+## Table of Contents
 
-**2. IP Addressing and Subnetting**
+1. [Introduction to Networking](#introduction-to-networking)
+2. [IP Addressing and Subnetting](#ip-addressing-and-subnetting)
+3. [Network Fundamentals](#network-fundamentals)
+4. [Routing and Switching](#routing-and-switching)
+5. [Network Security](#network-security)
+6. [WAN Technologies](#wan-technologies)
+7. [IP Services](#ip-services)
+8. [Troubleshooting and Maintenance](#troubleshooting-and-maintenance)
 
-Objective: Plan and configure IP addressing and subnetting for the designed network.
-Tasks:
-Create an IP address plan for the network, including IPv4 and IPv6 addressing.
-Perform subnetting calculations and apply VLSM where necessary.
-Document the IP addressing scheme and subnetting details.
-Deliverables:
-IP address plan document.
-Subnetting calculations and explanations.
-Configuration files for IP addresses and subnets.
-Example Repository Files:
+## 1. Introduction to Networking
 
-/docs/ip_addressing/
-IP_Address_Plan.md
-Subnetting_Calculations.md
-IP_Configuration_Files/
+**Objective:** Create a network topology diagram and document the network design for a small business.
 
-**3. Network Fundamentals**
+### Tasks:
+- Install and configure network simulation software (Cisco Packet Tracer or GNS3).
+- Design a network topology for a small business, including routers, switches, and basic network devices.
+- Document the OSI and TCP/IP models as they apply to your design.
 
-Objective: Configure and simulate network topologies, Ethernet standards, and VLANs.
-Tasks:
-Design and configure various network topologies (star, bus, ring, mesh).
-Configure Ethernet settings and VLANs.
-Document the configuration and the traffic segregation in VLANs.
-Deliverables:
-Simulation files for different network topologies.
-VLAN configuration documentation.
-Ethernet standards and configuration files.
-Example Repository Files:
+### Deliverables:
+- [Network topology diagram](docs/intro_networking/Network_Topology_Diagram.png)
+- [Installation and configuration guide of simulation software](docs/intro_networking/Installation_Configuration_Guide.md)
+- [Documentation of the OSI and TCP/IP models](docs/intro_networking/OSI_TCPIP_Models_Documentation.md)
 
-/docs/network_fundamentals/
-Topology_Configurations/
-VLAN_Configuration.md
-Ethernet_Standards.md
+## 2. IP Addressing and Subnetting
 
-**4. Routing and Switching**
+**Objective:** Plan and configure IP addressing and subnetting for the designed network.
 
-Objective: Configure routing protocols, STP, and basic switch operations.
-Tasks:
-Implement static routing and dynamic routing protocols (RIP, OSPF, EIGRP).
-Configure Spanning Tree Protocol (STP) and basic switch settings.
-Document routing configurations and troubleshooting steps.
-Deliverables:
-Configuration files for routing protocols.
-STP configuration documentation.
-Troubleshooting guide.
-Example Repository Files:
+### Tasks:
+- Create an IP address plan for the network, including IPv4 and IPv6 addressing.
+- Perform subnetting calculations and apply VLSM where necessary.
+- Document the IP addressing scheme and subnetting details.
 
-/docs/routing_switching/
-Routing_Configurations.md
-STP_Configuration.md
-Routing_Troubleshooting.md
+### Deliverables:
+- [IP address plan document](docs/ip_addressing/IP_Address_Plan.md)
+- [Subnetting calculations and explanations](docs/ip_addressing/Subnetting_Calculations.md)
+- [Configuration files for IP addresses and subnets](docs/ip_addressing/IP_Configuration_Files/)
 
-**5. Network Security**
+## 3. Network Fundamentals
 
-Objective: Implement and document security configurations, including ACLs and device hardening.
-Tasks:
-Configure ACLs on routers to filter traffic.
-Implement basic security features (passwords, SSH) on network devices.
-Document security configurations and best practices.
-Deliverables:
-ACL configuration files.
-Security configuration documentation.
-Example Repository Files:
+**Objective:** Configure and simulate network topologies, Ethernet standards, and VLANs.
 
-/docs/network_security/
-ACL_Configurations.md
-Device_Security_Hardening.md
+### Tasks:
+- Design and configure various network topologies (star, bus, ring, mesh).
+- Configure Ethernet settings and VLANs.
+- Document the configuration and the traffic segregation in VLANs.
 
-**6. WAN Technologies**
+### Deliverables:
+- [Simulation files for different network topologies](docs/network_fundamentals/Topology_Configurations/)
+- [VLAN configuration documentation](docs/network_fundamentals/VLAN_Configuration.md)
+- [Ethernet standards and configuration files](docs/network_fundamentals/Ethernet_Standards.md)
 
-Objective: Configure and simulate WAN technologies and protocols.
-Tasks:
-Simulate WAN configurations using Packet Tracer or GNS3.
-Configure PPP on routers and document WAN setup.
-Deliverables:
-WAN configuration files.
-PPP configuration documentation.
-Example Repository Files:
+## 4. Routing and Switching
 
-/docs/wan_technologies/
-WAN_Configurations.md
-PPP_Configuration.md
+**Objective:** Configure routing protocols, STP, and basic switch operations.
 
-**7. IP Services**
+### Tasks:
+- Implement static routing and dynamic routing protocols (RIP, OSPF, EIGRP).
+- Configure Spanning Tree Protocol (STP) and basic switch settings.
+- Document routing configurations and troubleshooting steps.
 
-Objective: Configure and troubleshoot DHCP, NAT, and DNS services.
-Tasks:
-Set up DHCP on routers.
-Configure NAT and document its setup.
-Troubleshoot DNS issues and provide solutions.
-Deliverables:
-DHCP, NAT, and DNS configuration files.
-Troubleshooting guide.
-Example Repository Files:
+### Deliverables:
+- [Configuration files for routing protocols](docs/routing_switching/Routing_Configurations.md)
+- [STP configuration documentation](docs/routing_switching/STP_Configuration.md)
+- [Troubleshooting guide](docs/routing_switching/Routing_Troubleshooting.md)
 
-/docs/ip_services/
-DHCP_Configuration.md
-NAT_Configuration.md
-DNS_Troubleshooting.md
+## 5. Network Security
 
-**8. Troubleshooting and Maintenance**
+**Objective:** Implement and document security configurations, including ACLs and device hardening.
 
-Objective: Develop and document troubleshooting procedures and maintenance tasks.
-Tasks:
-Perform troubleshooting exercises for network issues.
-Create a maintenance schedule for network devices.
-Deliverables:
-Troubleshooting procedures document.
-Network maintenance checklist.
-Example Repository Files:
+### Tasks:
+- Configure ACLs on routers to filter traffic.
+- Implement basic security features (passwords, SSH) on network devices.
+- Document security configurations and best practices.
 
-/docs/troubleshooting_maintenance/
-Troubleshooting_Guide.md
-Maintenance_Checklist.md
+### Deliverables:
+- [ACL configuration files](docs/network_security/ACL_Configurations.md)
+- [Security configuration documentation](docs/network_security/Device_Security_Hardening.md)
+
+## 6. WAN Technologies
+
+**Objective:** Configure and simulate WAN technologies and protocols.
+
+### Tasks:
+- Simulate WAN configurations using Packet Tracer or GNS3.
+- Configure PPP on routers and document WAN setup.
+
+### Deliverables:
+- [WAN configuration files](docs/wan_technologies/WAN_Configurations.md)
+- [PPP configuration documentation](docs/wan_technologies/PPP_Configuration.md)
+
+## 7. IP Services
+
+**Objective:** Configure and troubleshoot DHCP, NAT, and DNS services.
+
+### Tasks:
+- Set up DHCP on routers.
+- Configure NAT and document its setup.
+- Troubleshoot DNS issues and provide solutions.
+
+### Deliverables:
+- [DHCP, NAT, and DNS configuration files](docs/ip_services/)
+- [Troubleshooting guide](docs/ip_services/DNS_Troubleshooting.md)
+
+## 8. Troubleshooting and Maintenance
+
+**Objective:** Develop and document troubleshooting procedures and maintenance tasks.
+
+### Tasks:
+- Perform troubleshooting exercises for network issues.
+- Create a maintenance schedule for network devices.
+
+### Deliverables:
+- [Troubleshooting procedures document](docs/troubleshooting_maintenance/Troubleshooting_Guide.md)
+- [Network maintenance checklist](docs/troubleshooting_maintenance/Maintenance_Checklist.md)
+
+---
+
+Feel free to modify any sections according to your specific requirements or to add additional details as needed.
