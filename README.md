@@ -7,13 +7,10 @@ Tasks:
 Install and configure network simulation software (Cisco Packet Tracer or GNS3).
 Design a network topology for a small business, including routers, switches, and basic network devices.
 Document the OSI and TCP/IP models as they apply to your design.
-
 Deliverables:
-
 Network topology diagram.
 Installation and configuration guide of simulation software.
 Documentation of the OSI and TCP/IP models in the context of the network design.
-
 Example Repository Files:
 /docs/intro_networking/
 Network_Topology_Diagram.png
