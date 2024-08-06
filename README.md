@@ -25,4 +25,4 @@ This project involves designing, configuring, and documenting a network for a fi
 This project is not licensed under any individual or organisation
 
 ## Contact
-For questions or feedback, please contact [SHARADH R](mailto:sharadhkcc@gmail.com).
+For questions or feedback, please contact [SHARADH R](mailto:Sharadh R<sharadhkcc@gmail.com>).
