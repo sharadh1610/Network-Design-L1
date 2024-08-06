@@ -1,22 +1,26 @@
 # Network Design and Configuration for a Small Business
 
 **1.Introduction to Networking**
+
 Objective: Create a network topology diagram and document the network design for a small business.
 Tasks:
 Install and configure network simulation software (Cisco Packet Tracer or GNS3).
 Design a network topology for a small business, including routers, switches, and basic network devices.
 Document the OSI and TCP/IP models as they apply to your design.
+
 Deliverables:
+
 Network topology diagram.
 Installation and configuration guide of simulation software.
 Documentation of the OSI and TCP/IP models in the context of the network design.
-Example Repository Files:
 
+Example Repository Files:
 /docs/intro_networking/
 Network_Topology_Diagram.png
 OSI_TCPIP_Models_Documentation.md
 
 **2. IP Addressing and Subnetting**
+
 Objective: Plan and configure IP addressing and subnetting for the designed network.
 Tasks:
 Create an IP address plan for the network, including IPv4 and IPv6 addressing.
@@ -34,6 +38,7 @@ Subnetting_Calculations.md
 IP_Configuration_Files/
 
 **3. Network Fundamentals**
+
 Objective: Configure and simulate network topologies, Ethernet standards, and VLANs.
 Tasks:
 Design and configure various network topologies (star, bus, ring, mesh).
@@ -51,6 +56,7 @@ VLAN_Configuration.md
 Ethernet_Standards.md
 
 **4. Routing and Switching**
+
 Objective: Configure routing protocols, STP, and basic switch operations.
 Tasks:
 Implement static routing and dynamic routing protocols (RIP, OSPF, EIGRP).
@@ -68,6 +74,7 @@ STP_Configuration.md
 Routing_Troubleshooting.md
 
 **5. Network Security**
+
 Objective: Implement and document security configurations, including ACLs and device hardening.
 Tasks:
 Configure ACLs on routers to filter traffic.
@@ -83,6 +90,7 @@ ACL_Configurations.md
 Device_Security_Hardening.md
 
 **6. WAN Technologies**
+
 Objective: Configure and simulate WAN technologies and protocols.
 Tasks:
 Simulate WAN configurations using Packet Tracer or GNS3.
@@ -97,6 +105,7 @@ WAN_Configurations.md
 PPP_Configuration.md
 
 **7. IP Services**
+
 Objective: Configure and troubleshoot DHCP, NAT, and DNS services.
 Tasks:
 Set up DHCP on routers.
@@ -113,6 +122,7 @@ NAT_Configuration.md
 DNS_Troubleshooting.md
 
 **8. Troubleshooting and Maintenance**
+
 Objective: Develop and document troubleshooting procedures and maintenance tasks.
 Tasks:
 Perform troubleshooting exercises for network issues.
