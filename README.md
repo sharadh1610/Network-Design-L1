@@ -1,5 +1,5 @@
 # Network Design and Configuration for a Small Business
-=========================
+
 **1.Introduction to Networking**
 Objective: Create a network topology diagram and document the network design for a small business.
 Tasks:
