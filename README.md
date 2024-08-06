@@ -119,6 +119,4 @@ Welcome to the Network Design and Configuration project. This repository documen
 - [Troubleshooting procedures document](docs/troubleshooting_maintenance/Troubleshooting_Guide.md)
 - [Network maintenance checklist](docs/troubleshooting_maintenance/Maintenance_Checklist.md)
 
----
-
-Feel free to modify any sections according to your specific requirements or to add additional details as needed.
+--
