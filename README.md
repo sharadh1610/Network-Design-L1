@@ -2,7 +2,7 @@
 
 **1.Introduction to Networking**
 
-Objective: Create a network topology diagram and document the network design for a small business.
+****Objective:**** Create a network topology diagram and document the network design for a small business.
 Tasks:
 Install and configure network simulation software (Cisco Packet Tracer or GNS3).
 Design a network topology for a small business, including routers, switches, and basic network devices.
