@@ -22,7 +22,7 @@ This project involves designing, configuring, and documenting a network for a fi
 - Follow the configuration guides for setting up and troubleshooting the network.
 
 ## License
-This project is licensed under the [MIT License](LICENSE).
+This project is not licensed under any individual or organisation
 
 ## Contact
-For questions or feedback, please contact [Your Name](mailto:your.email@example.com).
+For questions or feedback, please contact [SHARADH R](mailto:sharadhkcc@gmail.com).
